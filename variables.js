@@ -12,3 +12,12 @@ var numberOfPets = 0;
 var isEmployed = true;
 var hasFriends = true;
 var isActive = true;
+
+email = "kvangorkom@turing.edu";
+firstName = "Kait";
+
+console.log(email);
+console.log(firstName);
+console.log(nickname);
+console.log(dollarsInBank);
+console.log(isEmployed);
